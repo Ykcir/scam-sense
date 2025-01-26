@@ -1,6 +1,3 @@
-# scam-sense
-the decision game
-
 # Scam Sense
 ## Abstract
 CLI decision-based game about scamming
